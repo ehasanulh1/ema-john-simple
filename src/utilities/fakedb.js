@@ -49,7 +49,7 @@ const deleteShoppingCart = () => {
 
 export {
     addToDb,
+    getStoredCart,
     removeFromDb,
-    deleteShoppingCart,
-    getStoredCart
+    deleteShoppingCart
 }
